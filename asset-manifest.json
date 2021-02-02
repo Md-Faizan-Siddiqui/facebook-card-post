@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/facebook-card-post/static/css/main.a2cbaa4a.chunk.css",
+    "main.js": "/facebook-card-post/static/js/main.7c7d28b2.chunk.js",
+    "main.js.map": "/facebook-card-post/static/js/main.7c7d28b2.chunk.js.map",
+    "runtime-main.js": "/facebook-card-post/static/js/runtime-main.299cdc4d.js",
+    "runtime-main.js.map": "/facebook-card-post/static/js/runtime-main.299cdc4d.js.map",
+    "static/js/2.b5394381.chunk.js": "/facebook-card-post/static/js/2.b5394381.chunk.js",
+    "static/js/2.b5394381.chunk.js.map": "/facebook-card-post/static/js/2.b5394381.chunk.js.map",
+    "index.html": "/facebook-card-post/index.html",
+    "static/css/main.a2cbaa4a.chunk.css.map": "/facebook-card-post/static/css/main.a2cbaa4a.chunk.css.map",
+    "static/js/2.b5394381.chunk.js.LICENSE.txt": "/facebook-card-post/static/js/2.b5394381.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.299cdc4d.js",
+    "static/js/2.b5394381.chunk.js",
+    "static/css/main.a2cbaa4a.chunk.css",
+    "static/js/main.7c7d28b2.chunk.js"
+  ]
+}
